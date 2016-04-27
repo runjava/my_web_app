@@ -1,1 +1,3 @@
-frist commit
+###### npm install 
+###### bower install
+###### gulp serve
